@@ -1,4 +1,4 @@
-# Jarvis-AI
+#Jarvis-AI
 Jarvis-AI is an intelligent personal assistant designed to automate everyday tasks, generate content, help with coding, manage notes, and integrate seamlessly with your workflow.
 It’s lightweight, fast, and built with modularity and privacy in mind.
 🚀 Features
